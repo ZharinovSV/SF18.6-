@@ -1,4 +1,4 @@
-Имя телеграмм бота @Currency converter
+Имя телеграмм бота @currency converter
 
 Команды для работы:
 
